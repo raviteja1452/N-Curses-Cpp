@@ -1,6 +1,8 @@
 # N-Curses-Cpp
 
-N Curses Cpp Library Sample programs
+#N Curses Cpp Library Sample programs
+
+Reference : thecplusplusguy (Youtube)
 
 Basic programs to learn about N-curses Library CPP 
 
