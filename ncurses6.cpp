@@ -15,6 +15,10 @@ int main(void){
 	// -- Curser not visible
 	//curs_set(0);
 
+	// -- sleep in microsec;
+	//usleep(1000000);
+
+	
 	// --Window Functions
 	// WINDOW *win;
 	// win = newwin(10,10,10,10);
